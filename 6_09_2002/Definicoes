@@ -1,0 +1,73 @@
+Sprint - Um sprint é um período curto e fixo em que uma equipe
+scrum trabalha para concluir uma quantidade definida de trabalho.
+Os sprints estão no cerne das metodologias scrum e ágil, e acertar neles vai ajudar sua equipe
+ágil a fornecer produtos melhores com menos dores de cabeça.
+
+Planejamento de Sprint - O planejamento do sprint é um evento no scrum que inicia o sprint.
+O objetivo do planejamento do sprint é definir o que pode ser entregue no sprint
+e como esse trabalho vai ser alcançado.
+O planejamento do sprint é feito em colaboração com toda a equipe Scrum
+
+Revisão de Sprint - As revisões de sprint não são retrospectivas.
+Uma revisão de sprint é sobre a demonstração do trabalho árduo de toda a equipe:
+designers, desenvolvedores e o proprietário do produto. Na Atlassian, gostamos de fazer
+reuniões de sprint casuais. Os membros da equipe se reúnem ao redor de uma mesa para
+demonstrações informais e descrevem o trabalho que fizeram para cada iteração.
+É um momento de fazer perguntas, testar novos recursos e dar feedback.
+Compartilhar com êxito é uma parte importante da criação de uma equipe ágil.
+
+Reuniões Rapidas - As reuniões rápidas são uma das partes fundamentais do
+desenvolvimento ágil e, normalmente, são as mais incompreendidas. Vamos ser realistas
+as reuniões rápidas, sozinhas, não tornam sua equipe ágil. Elas não são sobre inflar egos
+ou justificar descrições de trabalho. Não são um momento de planejamento. O planejamento
+de sprint é para planejamento. Elas também não são o único momento para mencionar os obstáculos.
+Se você estiver com algum problema, peça ajuda!
+
+Scrum Master - Resumo: O mestre de Scrum faz a facilitação do Scrum para
+equipes maiores garantindo que a estrutura seja seguida. É uma pessoa que tem o
+compromisso com os valores e práticas do Scrum, mas também deve manter a flexibilidade
+e a abertura para oportunidades de melhorar o fluxo de trabalho da equipe.
+
+Quadro Kanban - Um quadro Kanban é uma ferramenta de gerenciamento de projeto
+ágil que auxilia na visualização de trabalho, limitação de trabalho em andamento
+e maximização de eficiência (ou fluxo). Ele pode ajudar equipes ágeis e de DevOps
+a estabelecer ordem no trabalho diário. Os quadros Kanban usam cartões, colunas
+e melhorias contínuas para ajudar as equipes de tecnologia e serviço a se comprometerem
+com a quantidade certa de trabalho e terminarem tudo!
+
+Epics - Resumo: um epic ágil é uma quantidade de trabalho que pode ser dividida em
+tarefas específicas (chamadas de histórias do usuário) com base nas necessidades/solicitações
+dos clientes ou usuários finais. Os epics são uma prática importante para equipes ágeis e de DevOps.
+
+Parte Interessada - Correspondem a todos os elementos que afetam ou são afetados
+de alguma forma pela organização, e podem ser representados por empresas,
+instituições, investidores, grupos, pessoas, etc.
+
+Entrega Continua - A entrega contínua geralmente significa que as alterações feitas
+por uma equipe de desenvolvimento em uma aplicação são automaticamente testadas e
+carregadas em um repositório (como o GitHub ou um registro de aplicações em container),
+onde podem ser implantadas em um ambiente de produção em tempo real.
+
+Artefatos - Backlog do Produto, Backlog do Sprint e o Icremento.
+
+História do Usuário - Uma história de usuário é a menor unidade de trabalho em uma estrutura ágil.
+É um objetivo final, não um recurso, expresso da perspectiva do usuário do software.
+Uma história do usuário é uma explicação informal e geral sobre um
+recurso de software escrita a partir da perspectiva do usuário final ou cliente.
+
+Requisitos do Usuário - Requisitos de usuários são requisitos de mais alto nível,
+escritos por usuários, normalmente em linguagem natural e sem entrar em detalhes técnicos.
+Já requisitos de sistema são técnicos, precisos e escritos pelos próprios desenvolvedores.
+
+Story Point - O Story Point é unidade de complexidade de esforço que a gente tem para
+construir um pedaço de software, por exemplo uma User Story ou qualquer tipo de demanda
+que você tenha para construir.
+
+Iteração - processo de resolução de uma equação mediante operações em que sucessivamente o objeto
+de cada uma é o resultado da que a precede.
+
+Burndown - O Burndown é uma ferramenta visual do Scrum que permite aos gerentes de projeto
+verificar se o trabalho está dentro do esperado no que se refere ao cronograma.
+No Scrum, gráfico Burndown costuma caminhar lado a lado com o Burnup, e ambos ajudam a medir
+produtividade e desempenho das equipes nos quesitos esforço, tempo e prazo de entrega.
+
